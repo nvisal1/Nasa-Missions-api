@@ -82,7 +82,7 @@ MongoClient.connect(url, function(err, client) {
                 , function(err, result) {
                 if (err) {
                     console.error(err);
-                    res.status(500).json({message: "Houston we have a problem"});
+                    res.status(500).json({message: "Houston we have a problem"})
                 } else {
                     res.status(200).json(result);
                 }
@@ -103,6 +103,7 @@ MongoClient.connect(url, function(err, client) {
                 }
         });
     });
+
 
     app.listen(3000, () => {
         console.log("NASA SERVER LAUNCHED ON PORT 3000")

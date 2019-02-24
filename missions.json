@@ -1,0 +1,52 @@
+{
+    "missions": [
+        {
+            "name" : "Project Mercury",
+            "status": "completed",
+            "purpose": "Manned Earth orbital flight",
+            "cost": "$277 million (1965)"
+        },
+        {
+            "name" : "Project Gemini",
+            "status": "completed",
+            "purpose": "Extended duration manned Earth orbit",
+            "cost": "$1.3 billion (1967)"
+        },
+        {
+            "name" : "Apollo program",
+            "status": "completed",
+            "purpose": "Manned lunar landing",
+            "cost": "$25.4 billion (1973)"
+        },
+        {
+            "name" : "Skylab",
+            "status": "completed",
+            "purpose": "The only space station the U.S. has operated exclusively",
+            "cost": "N/A"
+        },
+        {
+            "name" : "Apollo–Soyuz Test Project",
+            "status": "completed",
+            "purpose": "N/A",
+            "cost": "N/A"
+        },
+        {
+            "name" : "Constellation program",
+            "status": "Cancelled in 2009",
+            "purpose": "Crewed lunar landing",
+            "cost": "$230 billion (2004)"
+        },
+        {
+            "name" : "Space Shuttle program",
+            "status": "completed",
+            "purpose": "Routine Earth-to-orbit crew and cargo transport",
+            "cost": "$196 billion (2011)"
+        },
+        {
+            "name" : "International Space Station",
+            "status": "N/A",
+            "purpose": "N/A",
+            "cost": "N/A"
+        }
+    ]
+}
