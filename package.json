@@ -1,0 +1,11 @@
+{
+  "name": "nasa-server",
+  "version": "1.0.0",
+  "description": "Node.js workshop for Towson Software Engineering Club spring 2019",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Visalli",
+  "license": "ISC"
+}
